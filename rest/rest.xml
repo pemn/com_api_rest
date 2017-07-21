@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="api" method="upgrade">
+	<name>Api - Rest</name>
+	<version>1.0</version>
+	<creationDate>2017-07-21</creationDate>
+	<author>Vale</author>
+	<authorEmail></authorEmail>
+	<authorUrl></authorUrl>
+	<copyright>2017 Vale</copyright>
+	<license>GNU General Public License v2</license>
+	<description>API generic rest plugin</description>
+	<files>
+		<filename plugin="rest">rest.php</filename>
+		<filename>rest/list.php</filename>
+		<folder>rest</folder>
+	</files>
+</extension>
