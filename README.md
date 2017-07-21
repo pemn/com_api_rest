@@ -1,5 +1,5 @@
 # com_api_rest
-Joomla! com_api component plugin boiller plate
+Joomla! com_api component plugin boiler plate for a custom RESTful service
 
 ## Description
 
